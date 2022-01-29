@@ -1,0 +1,31 @@
+
+.cls_we{
+    padding-top: 3%;
+    margin-left: 3%;
+    font-family: "Times New Roman", Times, serif
+}
+
+.cls_we h2{
+    font-weight: bolder;
+}
+
+.first_we{
+    font-size: 20px;
+    padding-top: 1%;
+    text-align: start;
+    font-weight: bolder;
+}
+
+.first_we .h2{
+    text-align: start;
+    font-weight: bolder;
+}
+
+.second_we{
+    padding-top: 1%;
+
+}
+
+.t_down{
+    padding-top: 1%;
+}

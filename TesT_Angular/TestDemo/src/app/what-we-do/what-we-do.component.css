@@ -1,0 +1,24 @@
+.section_we{
+    padding-top: 3%;
+    margin-left: 3%;
+    font-family: "Times New Roman", Times, serif
+}
+
+.section_we h3{
+    font-weight: bolder;
+}
+
+.section_we .regp{
+    font-weight: bolder;
+    font-size: 18px;
+}
+.we_do{
+    
+    padding-top: 1%;
+    font-size: 16px;
+}
+
+.we_do h6{
+    font-weight: 900;
+}
+
